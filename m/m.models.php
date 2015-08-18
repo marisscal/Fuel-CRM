@@ -1,5 +1,7 @@
 <?php
-$nav;
-$section;
-$footer;
+  
+  $nav;
+  $section;
+  $footer = '';
+  
 ?>
